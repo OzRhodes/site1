@@ -66,8 +66,8 @@ body {
 .slide-1, .slide-2, .slide-3, .slide-4, .slide-5, .slide-6, .slide-7, .slide-8{
 	display:block;
 	position: absolute;
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	margin: 0 auto;
 	
 }
